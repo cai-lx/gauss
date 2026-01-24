@@ -1,0 +1,3 @@
+# No external dependencies required for basic functionality
+# This tool currently only uses Python standard library modules:
+# os, re, subprocess, time, shutil, csv, math
