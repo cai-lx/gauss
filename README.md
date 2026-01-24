@@ -1,6 +1,6 @@
 # Gaussian Batch Calculator with BSSE Correction
 
-A Python-based tool for batch processing Gaussian calculations with BSSE (Basis Set Superposition Error) correction capabilities. This tool automates quantum chemistry calculations for molecular systems, including geometry optimization, frequency analysis, and energy calculations.
+A Python-based tool for batch processing Gaussian calculations with basis set superposition error (BSSE) correction. This tool can automatically perform quantum chemical calculations of molecular systems, including geometry optimization, frequency analysis, and multimer binding energy calculation.
 
 ## Features
 
